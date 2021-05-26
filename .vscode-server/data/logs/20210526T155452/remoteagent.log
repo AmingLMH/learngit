@@ -1,0 +1,29 @@
+[2021-05-26 15:54:52.142] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-05-26 15:54:52.142] [remoteagent] [info] Extension host agent started.
+[2021-05-26 15:54:52.564] [remoteagent] [info] [::ffff:127.0.0.1][e0269848][ManagementConnection] New connection established.
+[2021-05-26 15:54:52.567] [remoteagent] [info] [::ffff:127.0.0.1][36ee1955][ExtensionHostConnection] New connection established.
+[2021-05-26 15:54:56.165] [remoteagent] [info] [::ffff:127.0.0.1][36ee1955][ExtensionHostConnection] <133> Launched Extension Host Process.
+[2021-05-26 15:54:56.614] [remoteagent] [info] Installing extension: ms-ceintl.vscode-language-pack-zh-hans
+[2021-05-26 15:54:58.285] [remoteagent] [info] Downloaded extension: ms-ceintl.vscode-language-pack-zh-hans /home/liumignhao/.vscode-server/data/CachedExtensionVSIXs/ms-ceintl.vscode-language-pack-zh-hans-1.56.2
+[2021-05-26 15:54:59.959] [remoteagent] [info] Extracted extension to /home/liumignhao/.vscode-server/extensions/.4de74627-85d5-4fc7-bf96-f7e9ca1524e8: ms-ceintl.vscode-language-pack-zh-hans
+[2021-05-26 15:54:59.998] [remoteagent] [info] Renamed to /home/liumignhao/.vscode-server/extensions/ms-ceintl.vscode-language-pack-zh-hans-1.56.2
+[2021-05-26 15:55:00.005] [remoteagent] [info] Installation completed. ms-ceintl.vscode-language-pack-zh-hans
+[2021-05-26 15:55:00.021] [remoteagent] [info] Extensions installed successfully: ms-ceintl.vscode-language-pack-zh-hans
+[2021-05-26 15:55:04.300] [remoteagent] [info] [::ffff:127.0.0.1][e0269848][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-05-26 15:55:07.774] [remoteagent] [info] [::ffff:127.0.0.1][816f247b][ManagementConnection] New connection established.
+[2021-05-26 15:55:07.777] [remoteagent] [info] [::ffff:127.0.0.1][52a73349][ExtensionHostConnection] New connection established.
+[2021-05-26 15:55:07.837] [remoteagent] [info] [::ffff:127.0.0.1][52a73349][ExtensionHostConnection] <155> Launched Extension Host Process.
+[2021-05-26 15:55:07.946] [remoteagent] [info] [::ffff:127.0.0.1][36ee1955][ExtensionHostConnection] <133> Extension Host Process exited with code: 0, signal: null.
+[2021-05-26 17:58:13.707] [remoteagent] [info] [::ffff:127.0.0.1][816f247b][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-05-26 19:11:16.402] [remoteagent] [info] [::ffff:127.0.0.1][816f247b][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2021-05-26 19:11:16.405] [remoteagent] [info] [::ffff:127.0.0.1][52a73349][ExtensionHostConnection] The client has reconnected.
+[2021-05-26 19:11:17.386] [remoteagent] [info] [::ffff:127.0.0.1][816f247b][ManagementConnection] The client has reconnected.

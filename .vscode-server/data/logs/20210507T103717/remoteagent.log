@@ -1,0 +1,29 @@
+[2021-05-07 10:37:17.678] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-05-07 10:37:17.678] [remoteagent] [info] Extension host agent started.
+[2021-05-07 10:37:18.339] [remoteagent] [info] [::ffff:127.0.0.1][ba37eb9e][ManagementConnection] New connection established.
+[2021-05-07 10:37:18.345] [remoteagent] [info] [::ffff:127.0.0.1][a8cb1679][ExtensionHostConnection] New connection established.
+[2021-05-07 10:37:19.492] [remoteagent] [info] Deleted from disk ms-ceintl.vscode-language-pack-zh-hans /home/liumignhao/.vscode-server/extensions/ms-ceintl.vscode-language-pack-zh-hans-1.55.2
+[2021-05-07 10:37:21.251] [remoteagent] [info] [::ffff:127.0.0.1][a8cb1679][ExtensionHostConnection] <73> Launched Extension Host Process.
+[2021-05-07 10:37:46.820] [remoteagent] [info] [::ffff:127.0.0.1][a8cb1679][ExtensionHostConnection] The client has reconnected.
+[2021-05-07 11:29:03.830] [remoteagent] [info] [::ffff:127.0.0.1][ba37eb9e][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-05-07 11:30:37.350] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-05-07 11:32:53.739] [remoteagent] [info] [::ffff:127.0.0.1][ba37eb9e][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2021-05-07 11:32:53.740] [remoteagent] [info] [::ffff:127.0.0.1][a8cb1679][ExtensionHostConnection] The client has reconnected.
+[2021-05-07 11:32:54.002] [remoteagent] [info] [::ffff:127.0.0.1][ba37eb9e][ManagementConnection] The client has reconnected.
+[2021-05-07 12:08:15.925] [remoteagent] [info] [::ffff:127.0.0.1][ba37eb9e][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-05-07 13:40:17.667] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-05-07 13:40:28.710] [remoteagent] [info] [::ffff:127.0.0.1][ba37eb9e][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2021-05-07 13:40:28.711] [remoteagent] [info] [::ffff:127.0.0.1][ba37eb9e][ManagementConnection] The client has reconnected.
+[2021-05-07 13:40:28.728] [remoteagent] [info] [::ffff:127.0.0.1][a8cb1679][ExtensionHostConnection] The client has reconnected.
+[2021-05-07 13:43:22.432] [remoteagent] [info] [::ffff:127.0.0.1][ba37eb9e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-05-07 13:43:23.461] [remoteagent] [info] [::ffff:127.0.0.1][a8cb1679][ExtensionHostConnection] <73> Extension Host Process exited with code: 0, signal: null.
+[2021-05-07 13:43:23.462] [remoteagent] [info] Last EH closed, waiting before shutting down

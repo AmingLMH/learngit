@@ -1,0 +1,23 @@
+正在查找 Git: git
+将使用位于 git 的 Git 2.25.1
+> git rev-parse --git-dir
+Open repository: /home/liumignhao/STEP-BY-STEP
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git check-ignore -v -z --stdin
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :_posts/2021-04-26-markdown_practice_1.md
+> git ls-files --stage -- /home/liumignhao/STEP-BY-STEP/_posts/2021-04-26-markdown_practice_1.md
+> git cat-file -s b0266773d8618c025985a1edbf929497909686b1
+> git show --textconv :about.md
+> git ls-files --stage -- /home/liumignhao/STEP-BY-STEP/about.md
+> git cat-file -s 8b218dffb22c4b192123de15488082dbb10ae2d1
+> git show --textconv :3.txt
+> git ls-files --stage -- /home/liumignhao/STEP-BY-STEP/3.txt
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show --textconv :about.md
+> git ls-files --stage -- /home/liumignhao/STEP-BY-STEP/about.md
+> git cat-file -s 8b218dffb22c4b192123de15488082dbb10ae2d1

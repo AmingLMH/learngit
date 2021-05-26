@@ -1,0 +1,114 @@
+正在查找 Git: git
+将使用位于 git 的 Git 2.25.1
+Opening repository for path='/home/liumignhao' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/liumignhao/_site/AmingLMH.github.io' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/liumignhao/.--force' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/liumignhao/.bash_history' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/liumignhao/.bash_logout' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/liumignhao/.bashrc' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/liumignhao/.bundle' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/liumignhao/.gem' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/liumignhao/.gitconfig' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/liumignhao/.jekyll-cache' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/liumignhao/.landscape' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/liumignhao/.motd_shown' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/liumignhao/.profile' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/liumignhao/.sudo_as_admin_successful' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/liumignhao/.viminfo' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/liumignhao/.vscode-server' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+> git rev-parse --git-dir
+Open repository: /home/liumignhao/AmingLMH.github.io
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/liumignhao/AmingLMH.github.io/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+Opening repository for path='/home/liumignhao/Gemfile' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/liumignhao/Gemfile.lock' failed; ex=Error: spawn ENOTDIR
+> git rev-parse --git-dir
+> git check-ignore -v -z --stdin
+Open repository: /home/liumignhao/STEP-BY-STEP
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+Opening repository for path='/home/liumignhao/_site' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/liumignhao/index.html' failed; ex=Error: spawn ENOTDIR
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+Opening repository for path='/home/liumignhao/jekyll-test2' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/liumignhao/jeyll_tes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+> git check-ignore -v -z --stdin
+> git show --textconv :_authors/jill.md
+> git ls-files --stage -- /home/liumignhao/STEP-BY-STEP/_authors/jill.md
+> git cat-file -s 96046a3bf9282f053c0690a6e36fe190067f3ec7

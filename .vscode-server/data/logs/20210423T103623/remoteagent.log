@@ -1,0 +1,25 @@
+[2021-04-23 10:36:23.395] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-04-23 10:36:23.395] [remoteagent] [info] Extension host agent started.
+[2021-04-23 10:36:24.061] [remoteagent] [info] [::ffff:127.0.0.1][80380bdc][ManagementConnection] New connection established.
+[2021-04-23 10:36:24.067] [remoteagent] [info] [::ffff:127.0.0.1][c55376d7][ExtensionHostConnection] New connection established.
+[2021-04-23 10:36:25.293] [remoteagent] [info] [::ffff:127.0.0.1][c55376d7][ExtensionHostConnection] <178> Launched Extension Host Process.
+[2021-04-23 10:38:32.159] [remoteagent] [info] [::ffff:127.0.0.1][80380bdc][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-04-23 10:38:33.208] [remoteagent] [info] [::ffff:127.0.0.1][c55376d7][ExtensionHostConnection] <178> Extension Host Process exited with code: 0, signal: null.
+[2021-04-23 10:38:33.209] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-04-23 10:38:35.310] [remoteagent] [info] [::ffff:127.0.0.1][9dcee4e4][ManagementConnection] New connection established.
+[2021-04-23 10:38:35.311] [remoteagent] [info] [::ffff:127.0.0.1][41727429][ExtensionHostConnection] New connection established.
+[2021-04-23 10:38:35.360] [remoteagent] [info] [::ffff:127.0.0.1][41727429][ExtensionHostConnection] <270> Launched Extension Host Process.
+[2021-04-23 10:43:33.211] [remoteagent] [info] New EH opened, aborting shutdown
+[2021-04-23 15:10:52.562] [remoteagent] [info] [::ffff:127.0.0.1][9dcee4e4][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-04-23 15:10:54.127] [remoteagent] [info] [::ffff:127.0.0.1][41727429][ExtensionHostConnection] <270> Extension Host Process exited with code: 0, signal: null.
+[2021-04-23 15:10:54.127] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-04-23 21:14:54.607] [remoteagent] [info] Last EH closed, shutting down

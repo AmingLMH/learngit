@@ -1,0 +1,24 @@
+[2021-05-07 10:35:30.254] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-05-07 10:35:30.254] [remoteagent] [info] Extension host agent started.
+[2021-05-07 10:35:31.022] [remoteagent] [info] [::ffff:127.0.0.1][1a1164e0][ManagementConnection] New connection established.
+[2021-05-07 10:35:31.029] [remoteagent] [info] [::ffff:127.0.0.1][2984158a][ExtensionHostConnection] New connection established.
+[2021-05-07 10:35:42.059] [remoteagent] [info] [::ffff:127.0.0.1][2984158a][ExtensionHostConnection] <133> Launched Extension Host Process.
+[2021-05-07 10:35:42.652] [remoteagent] [info] Installing extension: ms-ceintl.vscode-language-pack-zh-hans
+[2021-05-07 10:35:49.208] [remoteagent] [info] Downloaded extension: ms-ceintl.vscode-language-pack-zh-hans /home/liumignhao/.vscode-server/data/CachedExtensionVSIXs/ms-ceintl.vscode-language-pack-zh-hans-1.56.1
+[2021-05-07 10:35:50.717] [remoteagent] [info] Extracted extension to /home/liumignhao/.vscode-server/extensions/.ab41f371-5f4c-4665-bf6b-e4b410d14c2f: ms-ceintl.vscode-language-pack-zh-hans
+[2021-05-07 10:35:50.750] [remoteagent] [info] Renamed to /home/liumignhao/.vscode-server/extensions/ms-ceintl.vscode-language-pack-zh-hans-1.56.1
+[2021-05-07 10:35:50.758] [remoteagent] [info] Installation completed. ms-ceintl.vscode-language-pack-zh-hans
+[2021-05-07 10:35:50.776] [remoteagent] [info] Extensions installed successfully: ms-ceintl.vscode-language-pack-zh-hans
+[2021-05-07 10:36:04.408] [remoteagent] [info] [::ffff:127.0.0.1][2984158a][ExtensionHostConnection] The client has reconnected.
+[2021-05-07 10:36:52.197] [remoteagent] [info] [::ffff:127.0.0.1][1a1164e0][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-05-07 10:36:53.297] [remoteagent] [info] [::ffff:127.0.0.1][2984158a][ExtensionHostConnection] <133> Extension Host Process exited with code: 0, signal: null.
+[2021-05-07 10:36:53.299] [remoteagent] [info] Last EH closed, waiting before shutting down
