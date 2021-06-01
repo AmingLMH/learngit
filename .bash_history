@@ -331,3 +331,271 @@ git commit -m "LMH_second"
 git push
 jekyll serve
 explorer.exe .
+git
+sudo apt updata
+sudo apt update
+sudo apt-get install git
+git -v
+git version
+mkdir learngit
+cd learngit
+pwd
+git init
+ls -ah
+git commit -m "wrote a readme file"
+git add file1.txt
+git add readme.txt
+git commit -m "wrote a readme file"
+git status
+git diff
+git add.
+git add .
+git status
+git commit -m "add distributed"
+git add readme.txt
+git commit -m "append GPL"
+git log
+git log --pretty=oneline
+git reset --hard HEAD^
+git log
+git reset --hard d5c8b
+cat readme.txt
+git reset --hard HEAD^
+git reflog
+git reset --hard d5c8b
+git status
+git add readme.txt
+git add LICENSE
+git status
+git add LICENSE
+git status
+git add .*
+git add .
+git status
+git commit -m "understand how stage works"
+git status
+cat readme.txt
+git add readme.txt
+git status
+git commit -m"git tracks changes"
+git status
+git diff HEAD -- readme.txt
+git add readme.txt
+git commit -m "git tracks changes"
+git status
+git stutas
+git status
+git add .
+git commit -m "a"
+git status
+git add .
+git commit -m "a"
+git status
+git add .
+git commit -m "a"
+git status
+git checkout -- readme.txt
+git checkout -- file
+git add .
+git stutas
+git reset HEAD readme.txt
+git status
+git reset HEAD readme.txt
+git status
+git check out -- readme.txt
+git status
+git check out -- readme.txt
+git checkout out -- readme.txt
+git status
+git checkout -- readme.txt
+git status
+git add test.txt
+git commit -m "add test.txt"
+rm test/txt
+rm test.txt
+git status
+git rm test.txt
+git commit -m "remove test.txt"
+git checkout -- test.txt
+git add  .
+git add .
+git commit -m "add text.txt"
+rm test.txt
+git checkout -- test.txt
+git stats
+git status
+ssh-keygen -t rsa -C "youremail@example.com"
+ssh-keygen -t rsa -C "1379335743@qq.com"
+git remote add origin git@github.com:AmingLMH/learngit.git
+git push -u origin master
+git remote add origin git@github.com:AmingLMH/learngit.git
+git branch -M main
+git push -u origin main
+echo "# learngit" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:AmingLMH/learngit.git
+git push -u origin main
+Host github.com
+User git
+Hostname ssh.github.com
+PreferredAuthentications publickey
+IdentityFile ~/.ssh/id_rsa
+Port 443
+Host gitlab.com
+Hostname altssh.gitlab.com
+User git
+Port 443
+PreferredAuthentications publickey
+IdentityFile ~/.ssh/id_rsa
+cd ~/.ssh
+vim config
+ssh -T git@github.com
+$ ssh-keygen -t rsa -C "youremail@example.com"
+keygen -t rsa -C "youremail@example.com"
+git remote -v
+cd
+git remote addorigin git@github.com:AmingLMH/learngit.git
+git remote addorigin git@github.com:AmingLMH/learngit
+git init
+git remote addorigin git@github.com:AmingLMH/learngit
+git remote addorigin git@github.com:AmingLMH/learngit.git
+git push -u origin master
+git remote addorigin git@github.com:AmingLMH/learngit.git
+git push -u origin master
+git remote -v
+git init
+git remote -v
+git remote addorigin git@github.com:AmingLMH/learngit.git
+git remote -v
+git init
+git remote -v
+git push -u origin master
+git remote add origin git@github.com:AmingLNH/learngit.git
+git push -u origin master
+git remote add origin git@github.com:AmingLNH/learngit.git
+git push -u origin master
+touch README
+git add README
+git status
+git commit -m "first commit"
+git push origin master
+git push
+git push origin main
+git push -u origin main
+git init
+git pull origin master
+git pull --rebase origin master
+git push -u origin master
+git remote add origin git@github.com:AmingLNH/learngit.git
+git push -u origin master
+git push -u origin main
+ls -al
+ls .git
+lis config
+ls config
+cd
+ls -al
+ls .git
+ls config
+config
+git remote add origin git@github.com:AmingLNH/learngit.git
+tldr
+sudo apt install tldr
+ls
+pwd
+ls
+la
+ls
+tldr git-remote
+git remote -v
+git push
+git push --set-upstream origin master
+git remote -v
+git push --set-upstream origin main
+git push --set-upstream origin master
+tldr git-remote
+git remote -v
+git remote remove ogirin
+git remote remove origin
+git remtoe -v
+git remote -v
+git remote add git@github.com:AmingLMH/learngit.git
+tldr git-remote
+git remote add origin git@github.com:AmingLMH/learngit.git
+git remote -v
+tldr git
+git pull
+git pull origin/master
+git pull origin master
+git push --set-upstream origin master
+git pull --allow-unrelated-histories 
+git pull origin master --allow-unrelated-histories 
+git status
+git pull
+git branch --set-upstream-to=origin/master master
+git pull
+git push
+git remote add origin git@github.com:AmingLMH/learngit.git
+git add .
+git add readme.txt
+cd
+git status
+git add .
+git add learngit
+git status
+git push learngit
+git commit push -m "first" learngit
+git commit -m "first" learngit
+git push learngit
+git tag
+git tag v1.0
+git tag v110
+git tag v1.1
+git tag
+git tag -d v110
+git tag
+git tag -a v1.0-m "first version"
+git tag -a v1.0-m "first"
+git tag -a v1.0-m "Initial commit
+git tag -a v1.0-m "Initial commit"
+git tag -a v1.0-m "First commit"
+git push 
+git push learngit
+git add readme.txt learngit
+git add readme.txt
+ls
+cd
+ls
+ls README
+cd
+ls 
+ls learngit/
+git add.
+git add .
+git status
+git status learngit
+git commit -m "try" learngit
+git commit -m "try"
+git push learngit
+git status
+cd
+ls
+git add demo1
+git add demo1.md
+git add .
+git status
+git
+cd learngit
+pwd
+git add demo1.md
+git status
+git commit -m "first"
+git add demo1.md learngit
+git push
+git push --set-upstream origin main
+git add demo1.md
+git commit -m "1"
+git push origin master
